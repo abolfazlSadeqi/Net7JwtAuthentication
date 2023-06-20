@@ -1,6 +1,6 @@
 # Net7JwtAuthentication
 
-implementing  authentication and authorization in ASP.NET Core by using Identity and JWT
+Implementing  authentication and authorization in  Web Api by using Identity and JWT
 
 I will try to teach step by step how to set up implementing authentication and authorization 
 1.	Install below  packages using Nuget 
