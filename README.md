@@ -59,10 +59,7 @@ https://github.com/abolfazlSadeqi/Net7JwtAuthentication/blob/master/Common/Commo
 ## Implementation register or login Action(It uses identity base classes (UserManager<ApplicationUser>)  )
 https://github.com/abolfazlSadeqi/Net7JwtAuthentication/blob/master/UI/API/Controller/Users/UserJwtController.cs
 
-## add attribute Authorize in Controller or Action for check access and Role
-```
-  [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "Admin")]
-```
+
 ### for testing with swagger. Click Authorize and enter token
 
 		
